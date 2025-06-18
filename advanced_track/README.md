@@ -17,7 +17,20 @@ Students with experience in:
 1. **SimpleReflectiveAgent** – basic reflection + refinement  
 2. **AdvancedReflectiveAgent** – customizable generation and critique strategies  
 3. **MetaReflectiveAgent** – agents that critique their own critique  
+---
 
+## ⚙️ How to Run It
+
+**Colab (Easy):**
+- Open the notebooks in Google Colab
+- No setup required
+
+**Local (Advanced):**
+```bash
+cd advanced_track
+pip install -r requirements.txt
+jupyter notebook
+```
 ---
 
 ## 🧪 Track Overview
@@ -36,20 +49,6 @@ Follow this order:
 
 Code lives in [`lib/agents.py`](lib/agents.py)
 
----
-
-## ⚙️ How to Run It
-
-**Colab (Easy):**
-- Open the notebooks in Google Colab
-- No setup required
-
-**Local (Advanced):**
-```bash
-cd advanced_track
-pip install -r requirements.txt
-jupyter notebook
-```
 
 ---
 
