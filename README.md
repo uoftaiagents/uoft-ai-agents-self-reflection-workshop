@@ -53,12 +53,13 @@ git clone https://github.com/uoftaiagents/uoft-ai-agents-self-reflection-worksho
 ```
 3. **Install dependencies**:
    ```bash
-   cd uoft-ai-agents-self-reflection-workshop
    # For beginner track
+   cd uoft-ai-agents-self-reflection-workshop
    cd beginner_track
    pip install -r requirements.txt
    
    # For advanced track
+   cd uoft-ai-agents-self-reflection-workshop
    cd advanced_track  
    pip install -r requirements.txt
    ```
