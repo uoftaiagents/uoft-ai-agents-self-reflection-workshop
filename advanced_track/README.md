@@ -54,11 +54,9 @@ Code lives in [`lib/agents.py`](lib/agents.py)
 
 ## 🔁 Reflection Loop (Core Architecture)
 ```
-Problem
-  ↓
-Generate → Critique → Refine
-  ↓           ↑
- Final ← Iterate until good
+Problem → Generate → Critique → Refine → Is it good?
+                                    ↑           ↓
+                                    ←── No ──── Yes → Final
 ```
 
 ---
