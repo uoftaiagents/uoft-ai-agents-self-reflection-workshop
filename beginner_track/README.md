@@ -1,6 +1,5 @@
 # 🚀 Beginner Track: Introduction to AI Agents
 
-**Target Audience**: 2nd-4th year CS/Math students with basic Python knowledge
 
 ## 🎯 Workshop Overview
 
