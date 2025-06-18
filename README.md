@@ -42,13 +42,16 @@ Self-reflecting AI agents that can:
 ```
 Problem → Generate → Evaluate → Refine → Better Solution
             ↑                               ↓
-            ←──── Keep Improving ──────────┘
+            ──── Keep Improving  ←─────────┘
 ```
 
 ## 🛠️ Installation
 
 1. **Clone this repository**
-2. **Install dependencies**:
+```bash
+git clone https://github.com/uoftaiagents/uoft-ai-agents-self-reflection-workshop.git
+```
+3. **Install dependencies**:
    ```bash
    # For beginner track
    cd beginner_track
@@ -58,7 +61,7 @@ Problem → Generate → Evaluate → Refine → Better Solution
    cd advanced_track  
    pip install -r requirements.txt
    ```
-3. **Start Jupyter**:
+4. **Start Jupyter**:
    ```bash
    jupyter notebook
    ```
