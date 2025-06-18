@@ -46,6 +46,3 @@ Open [`intro_to_self_reflecting_agents.ipynb`](intro_to_self_reflecting_agents.i
 Experiment, explore, and try breaking the agent — that’s how you learn.
 
 ---
-
-**Questions? Want to share what you built?**  
-Join our [Discord](#) and show off your AI creations! 🚀
