@@ -4,8 +4,7 @@
 
 Choose your track based on your experience level:
 
-### 🌟 **Beginner Track** (Recommended for most people)
-**Time**: 30-45 minutes | **Difficulty**: Easy
+### 🌟 **Beginner Track**
 
 Start here if you're new to AI agents or want a gentle introduction:
 ```
@@ -15,7 +14,6 @@ Start here if you're new to AI agents or want a gentle introduction:
 ```
 
 ### 🔬 **Advanced Track** (For experienced developers)
-**Time**: 45-60 minutes | **Difficulty**: Intermediate-Advanced
 
 For those comfortable with Python, AI concepts, and prompt engineering:
 ```
