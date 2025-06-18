@@ -20,9 +20,9 @@ For those comfortable with Python, AI concepts, and prompt engineering:
 📁 advanced_track/
 ├── 📖 README.md                      # Read this comprehensive guide first
 ├── 📓 notebooks/
-│   ├── 1️⃣ workshop_tutorial.ipynb       # 🎯 Start here (20 min)
-│   ├── 2️⃣ advanced_experiments.ipynb    # 🧪 Then experiments (15 min)
-│   └── 3️⃣ research_extensions.ipynb     # 🔬 Finally research (20 min)
+│   ├── 1️⃣ workshop_tutorial.ipynb       # 🎯 Start here
+│   ├── 2️⃣ advanced_experiments.ipynb    # 🧪 Then experiments 
+│   └── 3️⃣ research_extensions.ipynb     # 🔬 Finally research
 └── 🐍 lib/agents.py                  # Complete agent library
 ```
 
